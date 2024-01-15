@@ -1,22 +1,136 @@
 {
-    "products": [
-      {
-        "id": "1",
-        "name": "Produit 1",
-        "description": "Description du produit 1",
-        "price": "19.99"
-      },
-      {
-        "id": 2,
-        "name": "Produit 2",
-        "description": "Description du produit 2",
-        "price": "29.99"
-      },
-      {
-        "id": "3",
-        "name": "Produit 3",
-        "description": "Description du produit 3",
-        "price": "39.99"
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": "1",
+      "name": "Produit 1",
+      "description": "Description du produit 1",
+      "price": "19.99"
+    },
+    {
+      "id": "2",
+      "name": "Produit 2",
+      "description": "Description du produit 2",
+      "price": "29.99"
+    },
+    {
+      "id": "3",
+      "name": "Produit 3",
+      "description": "Description du produit 3",
+      "price": "39.99"
+    },
+    {
+      "id": "723b",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "c13e",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "2064",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "64fd",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "4437",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "1294",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "fec9",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "a8a2",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "9435",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "e022",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "8721",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "d9e2",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "4f2a",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "f72d",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "317c",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "d7aa",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": 9,
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "9",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    },
+    {
+      "id": "9",
+      "name": "Nouveau produit",
+      "description": "Description du nouveau produit",
+      "price": "49.99"
+    }
+  ]
+}

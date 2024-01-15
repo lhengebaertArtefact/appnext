@@ -23,3 +23,15 @@ export default async function About({
     </section>
   );
 }
+
+// Server Component
+export const Page = () => {
+  // Server Action
+  async function create() {
+    "use server";
+
+    // ...
+  }
+
+  return <div>Hello</div>;
+};
